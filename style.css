@@ -4,8 +4,10 @@
 }
 
 a{
+    text-align: center;
     text-decoration: none;
     color: gold;
+    font-size: large;
 }
 H1{
     line-height: 100px;
@@ -17,19 +19,17 @@ body{
     background-color: rgb(11, 130, 241);
 }
 img{
+    width: 200px;
     height: 200px;
-    height: 100px;
+}
+.pago{
+    text-align: center;
     display: block;
     margin-left: 50%;
     margin-right: 50%;
-    margin-bottom: 40px;
 }
-.texto{
+.button{
+    background-color: black;
     display: block;
-    margin-bottom: 100px;
-}
-.pago{
-    display: block;
-    margin-left: 55%;
-    margin-right: 50%;
+    width: 200px;
 }
